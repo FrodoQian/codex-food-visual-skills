@@ -1,0 +1,81 @@
+{
+  "canvas": {
+    "width": 1440,
+    "height": 1920,
+    "background": "#000000",
+    "fit": "pad"
+  },
+  "font_path": "/System/Library/Fonts/STHeiti Light.ttc",
+  "style": {
+    "name_color": "#FCF4DE",
+    "note_color": "#CDB37E",
+    "line_color": "#DAB056",
+    "name_size": 42,
+    "note_size": 24,
+    "line_width": 3,
+    "margin_x": 64,
+    "note_offset_y": 43
+  },
+  "labels": [
+    {
+      "name": "海鸭蛋黄",
+      "note": "咸香绵密",
+      "side": "left",
+      "y": 188,
+      "target": [704, 188],
+      "elbow_x": 485
+    },
+    {
+      "name": "红枣泥",
+      "note": "枣香浓郁",
+      "side": "right",
+      "y": 514,
+      "target": [755, 510],
+      "elbow_x": 1018
+    },
+    {
+      "name": "雪媚娘",
+      "note": "软糯拉丝",
+      "side": "left",
+      "y": 796,
+      "target": [650, 792],
+      "elbow_x": 485
+    },
+    {
+      "name": "五星面粉",
+      "note": "构筑酥松饼皮",
+      "side": "right",
+      "y": 1125,
+      "target": [720, 1148],
+      "elbow_x": 1025
+    },
+    {
+      "name": "中粒白砂糖",
+      "note": "甜度柔和 · 入口酥化",
+      "side": "left",
+      "y": 1285,
+      "target": [405, 1168],
+      "elbow_x": 495,
+      "name_size": 40,
+      "note_size": 23
+    },
+    {
+      "name": "液态油",
+      "note": "润泽起酥",
+      "side": "right",
+      "y": 1400,
+      "target": [822, 1288],
+      "elbow_x": 1025
+    },
+    {
+      "name": "四层蛋黄蛋月烧",
+      "note": "酥皮 · 雪媚娘 · 枣泥 · 海鸭蛋黄",
+      "side": "left",
+      "y": 1662,
+      "target": [600, 1650],
+      "elbow_x": 490,
+      "name_size": 43,
+      "note_size": 23
+    }
+  ]
+}
