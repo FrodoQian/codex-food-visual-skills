@@ -1,0 +1,4 @@
+interface:
+  display_name: "Food Ingredient Explosion Poster"
+  short_description: "Create premium exploded ingredient food posters"
+  default_prompt: "Use $create-food-ingredient-explosion-poster to turn my product photos and ingredient list into a polished 3:4 exploded food poster."
