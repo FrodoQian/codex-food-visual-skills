@@ -12,6 +12,7 @@ Turn product references and an ingredient list into a repeatable premium food po
 - Read [references/visual-spec.md](references/visual-spec.md) before deciding composition, material treatment, or layer order.
 - Read [references/prompt-template.md](references/prompt-template.md) before calling an image-generation tool.
 - Read [references/copy-and-qa.md](references/copy-and-qa.md) before writing flavor notes, placing labels, or approving the export.
+- Read [references/examples.md](references/examples.md) when adapting the workflow to a new product or when the user asks how prior products were handled.
 - Use [scripts/compose_labels.py](scripts/compose_labels.py) for exact 3:4 padding, Chinese typography, leader lines, and final PNG export.
 
 ## Core contracts
@@ -201,6 +202,16 @@ Lead with the completed result. Provide clickable absolute paths for the labeled
 - Cropping the white plate to force 3:4.
 - Using flavor notes as factual health or quality claims.
 - Overwriting the user's approved version instead of producing a sibling revision.
+
+## Worked examples
+
+Use [references/examples.md](references/examples.md) for three complete patterns:
+
+- a many-ingredient nut-and-fruit pastry;
+- a savory pepper-salt pastry with visually similar spices;
+- a four-layer salted-duck-yolk pastry with a quarter-cut cross-section.
+
+Reuse the decision pattern, not the product-specific ingredient list. Always replace names and layer order with the current user's exact brief.
 
 ## Completion standard
 
